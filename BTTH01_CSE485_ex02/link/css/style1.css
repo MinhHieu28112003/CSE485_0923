@@ -1,0 +1,93 @@
+﻿.x-brand {
+    display: block;
+    float: left;
+    text-decoration: none;
+    position: absolute;
+    top: 10px;
+}
+.picture>img{
+     float: left;
+     margin-right: 20px;
+     padding-bottom: 100px;
+     top: 100px;
+ }
+.picture{
+    text-align: left;
+    margin-left: 25px;
+    margin-right: 25px;
+    position: absolute;
+    top: 200px;
+}
+.location{
+    position: absolute;
+    top: 50px;
+    left: 290px;
+    font-size: 20px;
+}
+.location1{
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+.text1{
+    text-align: center;
+    font-size: 25px;
+    position: relative;
+    top: -30px;
+    left: 50px;
+}
+.login {
+    margin: 30px auto;
+    width: 770px;
+}
+button {
+    background-color: yellow;
+    border: 1px solid yellow;
+    border-radius: 4px;
+    color: black;
+    cursor: pointer;
+    transition: 0.3s background-color;
+    margin-left: 200px;
+}
+button:hover {
+    background-color: yellow;
+}
+.login h2 {
+    color: #383838;
+    font-size: 50px;
+    margin-bottom: 17px;
+    font-family: 'Times New Roman';
+}
+
+.full-size {
+    width: 318px;
+    height: 40px;
+    text-align: left;
+}
+
+.button-size {
+    min-width: 125px;
+    padding: 11px 10px;
+    text-align: center;
+}
+.bang {
+    border-style: groove;
+    width: 400px;
+    margin-left:80px;
+    margin-top: 200px;
+}
+p1 {
+    font-size: 15px;
+    color: darkblue;
+    text-align: center;
+}
+p2 {
+    line-height: 10px;
+}
+.or{
+    display: flex;
+    flex-direction: row;
+}
+.icon{
+    margin-left: 100px;
+}

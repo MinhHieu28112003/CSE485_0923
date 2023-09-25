@@ -1,0 +1,27 @@
+﻿.x-brand {
+    display: block;
+    float: left;
+    line-height: 1;
+    text-decoration: none;
+}
+.location{
+    position: absolute;
+    top: 50px;
+    left: 290px;
+    font-size: 20px;
+}
+.location1{
+    position: absolute;
+    top: 50px;
+    right: 100px;
+}
+.text{
+    text-align: center;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.picture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
